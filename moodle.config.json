@@ -1,6 +1,6 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "app_id": "com.prolanguage.mobile",
+    "appname": "Prolanguage Mobile",
     "versioncode": 50000,
     "versionname": "5.0.0",
     "cache_update_frequency_usually": 420000,
@@ -92,7 +92,7 @@
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https://moodle.net/moodle-app-privacy/",
+    "privacypolicy": "https://prolanguage.co.uk/polityka-prywatnosci//",
     "notificoncolor": "#f98012",
     "enableanalytics": false,
     "enableonboarding": true,
