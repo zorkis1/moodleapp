@@ -86,7 +86,7 @@
     "forceColorScheme": "",
     "forceLoginLogo": false,
     "showTopLogo": "hidden",
-    "ioswebviewscheme": "moodleappfs",
+    "ioswebviewscheme": "prolanguageappfs",
     "appstores": {
         "android": "com.prolanguage.mobile",
         "ios": "id633359593"
