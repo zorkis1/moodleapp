@@ -67,33 +67,20 @@
         "zh-cn": "简体中文",
         "zh-tw": "正體中文"
     },
-    "wsservice": "moodle_mobile_app",
-    "demo_sites": {
-        "student": {
-            "url": "https://school.moodledemo.net",
-            "username": "student",
-            "password": "moodle2024"
-        },
-        "teacher": {
-            "url": "https://school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle2024"
-        }
-    },
     "defaultZoomLevel": "none",
     "zoomlevels": {
         "none": 100,
         "medium": 110,
         "high": 120
     },
-    "customurlscheme": "moodlemobile",
-    "sites": [],
+    "customurlscheme": "Prolanguagemobile",
+    "sites": "https://kursy.prolanguage.co.uk",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https://prolanguage.co.uk/polityka-prywatnosci//",
-    "notificoncolor": "#f98012",
+    "privacypolicy": "https://kursy.prolanguage.co.uk/polityka-prywatnosci//",
+    "notificoncolor": "#2194ff",
     "enableanalytics": false,
     "enableonboarding": true,
     "forceColorScheme": "",
@@ -101,7 +88,7 @@
     "showTopLogo": "hidden",
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodle.moodlemobile",
+        "android": "com.prolanguage.mobile",
         "ios": "id633359593"
     },
     "wsrequestqueuelimit": 10,
